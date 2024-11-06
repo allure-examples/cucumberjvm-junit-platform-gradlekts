@@ -1,4 +1,4 @@
-package io.qameta.allure.examples.cucumber7;
+package com.example.cucumberjvm;
 
 import org.junit.platform.suite.api.IncludeEngines;
 import org.junit.platform.suite.api.SelectClasspathResource;
